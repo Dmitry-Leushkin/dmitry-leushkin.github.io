@@ -15,8 +15,7 @@ My current research includes language-based cognitive processing, semantic cuein
 
 I publish technical reports and working papers through [HOF Research](https://hof-research.org/), the Human Optimization Framework. HOF is an independent research initiative, not a clinical or medical institution. Its publications distinguish established evidence, observation, exploratory models, and hypotheses.
 
-Research interests
-======
+## Research interests
 
 * Protocol-based cognitive processing and semantic regulation
 * Longitudinal observation and research-data systems

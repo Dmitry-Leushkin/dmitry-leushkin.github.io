@@ -29,7 +29,7 @@ author:
   bio              : "Independent Researcher & Human Systems Architect"
   location         : "Saint Petersburg, Russia"
   employer         : "HOF Research"
-  uri              : "https://hof-research.org/"
+  uri              :
   email            :
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-8682-9647"
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=12817828"
   pubmed           :
   researchgate     : "https://www.researchgate.net/profile/Dmitry-Leushkin"
   scopus           : # URL
@@ -74,13 +74,33 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          :
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  links:
+    - label: "HOF Research"
+      url: "https://hof-research.org/"
+    - label: "Turbo-Suslik"
+      url: "https://turbo-suslik.ru/en/"
+    - label: "Faculty Bio"
+      url: "https://dmitryleushkin.faculty.bio/"
+    - label: "Frontiers Loop"
+      url: "https://loop.frontiersin.org/people/3658628"
+    - label: "Scilio"
+      url: "https://www.scilio.app/dmitry-leushkin"
+    - label: "Owlstown"
+      url: "https://dmitry-leushkin.owlstown.net/"
+    - label: "Figshare"
+      url: "https://figshare.com/authors/Dmitry_Leushkin/24591888"
+    - label: "Web of Science"
+      url: "https://www.webofscience.com/wos/author/record/QIU-2073-2026"
+    - label: "X"
+      url: "https://x.com/DmitryLeushkin"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
